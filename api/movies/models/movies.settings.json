@@ -1,6 +1,6 @@
 {
   "kind": "collectionType",
-  "collectionName": "movies",
+  "collectionName": "articles",
   "info": {
     "name": "Articles"
   },
